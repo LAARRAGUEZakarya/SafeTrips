@@ -14,6 +14,13 @@ class Journey extends Model
         "price",
         "from",
         "to",
-        "Duration",
+        "duration",
+        "image",
+
     ] ;
+
+    public function categories()
+    {
+        return $this->belongTo(Category::class);
+    }
 }
