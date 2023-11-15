@@ -1,7 +1,5 @@
 <!doctype html>
 <html lang="en">
-
-<!-- Mirrored from preview.colorlib.com/theme/trips/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 14 Nov 2023 09:10:55 GMT -->
 <head>
    <title>SafeTrips</title>
     <meta charset="utf-8">
@@ -15,6 +13,9 @@
     <link rel="stylesheet" href="{{asset('assets/css/owl.theme.default.min.css')}}">
     <link rel="stylesheet" href="{{asset('assets/fonts/flaticon/font/flaticon.css')}}">
     <link rel="stylesheet" href="{{asset('assets/css/aos.css')}}">
+
+    {{-- favicon --}}
+    <link rel="icon" href="{{asset('assets/images/logo.png')}}">
 
     <link rel="stylesheet" href="{{asset('assets/css/style.css')}}">
     <script nonce="eca30639-1869-4258-be70-f29087ef0421" src="{{asset('costom_assets/js/head.js')}}"></script>
