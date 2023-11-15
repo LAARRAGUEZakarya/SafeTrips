@@ -11,7 +11,7 @@
           <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos debitis enim a pariatur molestiae.</p>
         </div>
         <div class="col-md-6" data-aos="fade-right">
-         <img src="images/traveler.jpg" alt="Image" class="img-fluid">
+         <img src="{{asset('assets/images/traveler.jpg')}}" alt="Image" class="img-fluid">
         </div>
       </div>
     </div>

@@ -13,7 +13,7 @@
         <div class="col-lg-4 col-md-6 mb-4" data-aos="fade-up">
           <div class="listing-item">
             <div class="listing-image">
-              <img src="images/img_1.jpg" alt="Image" class="img-fluid">
+              <img src="{{asset('assets/images/img_1.jpg')}}" alt="Image" class="img-fluid">
             </div>
             <div class="listing-item-content">
               <a class="px-3 mb-3 category bg-primary" href="#">$200.00</a>
@@ -24,7 +24,7 @@
         <div class="col-lg-4 col-md-6 mb-4" data-aos="fade-up">
           <div class="listing-item">
             <div class="listing-image">
-              <img src="images/img_2.jpg" alt="Image" class="img-fluid">
+              <img src="{{asset('assets/images/img_2.jpg')}}" alt="Image" class="img-fluid">
             </div>
             <div class="listing-item-content">
               <a class="px-3 mb-3 category bg-primary" href="#">$390.00</a>
@@ -35,7 +35,7 @@
         <div class="col-lg-4 col-md-6 mb-4" data-aos="fade-up">
           <div class="listing-item">
             <div class="listing-image">
-              <img src="images/img_3.jpg" alt="Image" class="img-fluid">
+              <img src="{{asset('assets/images/img_3.jpg')}}" alt="Image" class="img-fluid">
             </div>
             <div class="listing-item-content">
               <a class="px-3 mb-3 category bg-primary" href="#">$180.00</a>
@@ -46,7 +46,7 @@
         <div class="col-lg-4 col-md-6 mb-4" data-aos="fade-up">
           <div class="listing-item">
             <div class="listing-image">
-              <img src="images/img_4.jpg" alt="Image" class="img-fluid">
+              <img src="{{asset('assets/images/img_4.jpg')}}" alt="Image" class="img-fluid">
             </div>
             <div class="listing-item-content">
               <a class="px-3 mb-3 category bg-primary" href="#">$600.00</a>
@@ -57,7 +57,7 @@
         <div class="col-lg-4 col-md-6 mb-4" data-aos="fade-up">
           <div class="listing-item">
             <div class="listing-image">
-            <img src="images/img_5.jpg" alt="Image" class="img-fluid">
+            <img src="{{asset('assets/images/img_5.jpg')}}" alt="Image" class="img-fluid">
             </div>
             <div class="listing-item-content">
               <a class="px-3 mb-3 category bg-primary" href="#">$330.00</a>
@@ -68,7 +68,7 @@
         <div class="col-lg-4 col-md-6 mb-4" data-aos="fade-up">
           <div class="listing-item">
             <div class="listing-image">
-              <img src="images/img_6.jpg" alt="Image" class="img-fluid">
+              <img src="{{asset('assets/images/img_6.jpg')}}" alt="Image" class="img-fluid">
             </div>
             <div class="listing-item-content">
               <a class="px-3 mb-3 category bg-primary" href="#">$450.00</a>

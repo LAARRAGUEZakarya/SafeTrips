@@ -12,7 +12,7 @@
       <div class="row">
         <div class="col-lg-4 col-md-6 mb-4">
           <div class="person-29191 text-center">
-            <img src="images/person_1.jpg" alt="Image" class="img-fluid mb-4">
+            <img src="{{asset('assets/images/person_1.jpg')}}" alt="Image" class="img-fluid mb-4">
             <div class="px-4">
               <h2 class="mb-2">John Doe</h2>
               <p class="caption mb-4">Staff</p>
@@ -27,7 +27,7 @@
         </div>
         <div class="col-lg-4 col-md-6 mb-4">
           <div class="person-29191 text-center">
-            <img src="images/person_2.jpg" alt="Image" class="img-fluid mb-4">
+            <img src="{{asset('assets/images/person_2.jpg')}}" alt="Image" class="img-fluid mb-4">
             <div class="px-4">
               <h2 class="mb-2">Jean Doe</h2>
               <p class="caption mb-4">Staff</p>
@@ -42,7 +42,7 @@
         </div>
         <div class="col-lg-4 col-md-6 mb-4">
           <div class="person-29191 text-center">
-            <img src="images/person_3.jpg" alt="Image" class="img-fluid mb-4">
+            <img src="{{asset('assets/images/person_3.jpg')}}" alt="Image" class="img-fluid mb-4">
               <div class="px-4">
                 <h2 class="mb-2">Claire Dormey</h2>
                 <p class="caption mb-4">Staff</p>

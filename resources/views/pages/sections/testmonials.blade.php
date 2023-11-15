@@ -14,7 +14,7 @@
           <div class="col-md-6">
             <div class="testimonial-39191 d-flex">
               <div class="mr-4">
-                <img src="images/person_1.jpg" alt="Image" class="img-fluid">
+                <img src="{{asset('assets/images/person_1.jpg')}}" alt="Image" class="img-fluid">
               </div>
               <div>
                 <blockquote>&ldquo;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore, accusamus, facilis! Placeat praesentium alias porro aperiam facilis accusantium veniam?&rdquo;</blockquote>
@@ -25,7 +25,7 @@
           <div class="col-md-6">
             <div class="testimonial-39191 d-flex">
               <div class="mr-4">
-                <img src="images/person_2.jpg" alt="Image" class="img-fluid">
+                <img src="{{asset('assets/images/person_2.jpg')}}" alt="Image" class="img-fluid">
               </div>
               <div>
                 <blockquote>&ldquo;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore, accusamus, facilis! Placeat praesentium alias porro aperiam facilis accusantium veniam?&rdquo;</blockquote>
@@ -38,7 +38,7 @@
           <div class="col-md-6">
             <div class="testimonial-39191 d-flex">
               <div class="mr-4">
-                <img src="images/person_1.jpg" alt="Image" class="img-fluid">
+                <img src="{{asset('assets/images/person_1.jpg')}}" alt="Image" class="img-fluid">
               </div>
               <div>
                 <blockquote>&ldquo;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore, accusamus, facilis! Placeat praesentium alias porro aperiam facilis accusantium veniam?&rdquo;</blockquote>
@@ -49,7 +49,7 @@
           <div class="col-md-6">
             <div class="testimonial-39191 d-flex">
               <div class="mr-4">
-                <img src="images/person_2.jpg" alt="Image" class="img-fluid">
+                <img src="{{asset('assets/images/person_2.jpg')}}" alt="Image" class="img-fluid">
               </div>
               <div>
                 <blockquote>&ldquo;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore, accusamus, facilis! Placeat praesentium alias porro aperiam facilis accusantium veniam?&rdquo;</blockquote>

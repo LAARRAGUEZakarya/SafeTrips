@@ -1,4 +1,4 @@
-<div class="site-section bg-image overlay" style="background-image: url('images/hero_1.jpg')">
+<div class="site-section bg-image overlay" style="background-image: url('{{asset('assets/images/hero_1.jpg')}}')">
     <div class="container">
       <div class="row justify-content-center">
         <div class="col-md-7 text-center">
